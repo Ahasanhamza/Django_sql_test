@@ -1,0 +1,1 @@
+# Django_sql_test
